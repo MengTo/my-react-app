@@ -49,3 +49,17 @@ a {
   border: 1px solid rgba(255, 255, 255, 0.25);
   border-radius: 20px;
 }
+
+@media (max-width: 640px) {
+  .HeroGroup {
+    padding: 100px 20px;
+  }
+
+  .Hero h1 {
+    font-size: 40px;
+  }
+
+  .Hero p {
+    font-size: 24px;
+  }
+}
