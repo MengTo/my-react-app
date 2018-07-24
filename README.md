@@ -14,6 +14,8 @@ https://designcode.io/react
 - [Styled Components](https://github.com/MengTo/my-react-app/tree/555833defc42f63db1e64c7893cdf0923be88943)
 - [Static Data with JSON](https://github.com/MengTo/my-react-app/tree/6777553e4293a34072d40a2c8913357c982cffb0)
 - [GraphQL with Contentful](https://github.com/MengTo/my-react-app/tree/e9e674ba40f91faf929d219f5c680114e9e0881e)
+- [Publish to Netlify](https://github.com/MengTo/my-react-app/tree/e9e674ba40f91faf929d219f5c680114e9e0881e)
+- [Payments with Stripe]()
 
 ## Install Gatsby and Node
 
