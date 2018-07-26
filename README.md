@@ -28,3 +28,21 @@ npm install --global gatsby-cli
 ```sh
 npm install
 ```
+
+## Known Issues
+1. If you have issues installing Gatsby, please use sudo in front.
+```sh
+sudo npm install --global gatsby-cli
+```
+
+2. In Basic Styling in CSS, you may get an errro when you call the local image. The easiest solution is to put the image online using [CloudApp](http://getcloudapp.com).
+```css
+background: url('https://cl.ly/3k1F152x261C/download/wallpaper3.jpg');
+```
+
+Or, you can try installing this library.
+```sh
+npm install --save url-loader
+```
+
+Or, you can also put the images inside /static/images instead of /src/images.
