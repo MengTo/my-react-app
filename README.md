@@ -47,4 +47,7 @@ Or, you can try installing this library.
 npm install --save url-loader
 ```
 
-Or, you can also put the images inside /static/images instead of /src/images.
+Or, you can also put the images inside `/static/images` or `/public/images` instead of `/src/images`. Link the images like this:
+```css
+background: url('../../static/images/wallpaper3.jpg');
+```
