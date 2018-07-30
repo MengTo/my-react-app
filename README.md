@@ -37,7 +37,7 @@ sudo npm install --global gatsby-cli
 ```
 
 ### Image issue in In Basic Styling in CSS
-You may get an errro when you call the local image. The easiest solution is to put the image online using [CloudApp](http://getcloudapp.com).
+You may get an error when you call the local image. The easiest solution is to put the image online using [CloudApp](http://getcloudapp.com).
 ```css
 background: url('https://cl.ly/3k1F152x261C/download/wallpaper3.jpg');
 ```
