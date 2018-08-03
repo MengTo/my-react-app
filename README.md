@@ -51,3 +51,6 @@ Or, you can also put the images inside `/static/images` or `/public/images` inst
 ```css
 background: url('../../static/images/wallpaper3.jpg');
 ```
+
+### GraphQL giving an error
+Make sure to restart your local environment by doing **Control + C** in the Terminal, and then `gatsby develop`.
