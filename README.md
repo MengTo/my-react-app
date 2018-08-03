@@ -1,6 +1,6 @@
 # React for Designers
 ![](https://cl.ly/0Q093L3s2Q27/download/react-promo.jpg)
-React is the most popular javascript framework. It’s component-based, similar to how you use Components in [Figma] in order to reuse the elements in powerful ways. This in turn allows for better collaboration between teammates. With this course, you'll learn how to build and animate your site from scratch. Create highly customizable components for your design system. Full video tutorials:
+React is the most popular javascript framework. It’s component-based, similar to how you use Components in [Figma](https://www.figma.com/?ref=designcode) in order to reuse the elements in powerful ways. This in turn allows for better collaboration between teammates. With this course, you'll learn how to build and animate your site from scratch. Create highly customizable components for your design system. Full video tutorials:
 https://designcode.io/react
 
 ## Course Downloads
