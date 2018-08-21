@@ -13,7 +13,7 @@ a {
 }
 
 .Hero {
-  background: url('../images/wallpaper3.jpg');
+  background: url(/images/wallpaper3.jpg);
   height: 920px;
   background-size: cover;
   background-position: center;
